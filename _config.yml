@@ -11,11 +11,11 @@ description: The goal of this blog is to give extra persepctive on some probabil
 github_username: samluxenberg1
 
 # Email and twitter are optional:
-email:
+email: samluxenberg1@gmail.com
 twitter_username:
 
 # Set this to true to get LaTeX math equation support
-use_math:
+use_math: true
 
 # Add your Google Analytics ID here if you have one and want to use it
 google_analytics:
