@@ -1,3 +1,6 @@
+1. TOC
+{:toc}
+
 # Hello World
 sines of the times
 
