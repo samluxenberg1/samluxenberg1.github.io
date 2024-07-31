@@ -4,7 +4,7 @@ collection: teaching
 type: "DNSC 6290"
 permalink: /teaching/DNSC-6290
 venue: "The George Washington University, Department of Decision Science"
-date: 2024
+date: 2024-01-01
 location: "Washington, D.C."
 ---
 
